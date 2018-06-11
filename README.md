@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Try this!
+```
+gem install sosotown
+irb
+require 'sosotown'
+Sosotown.me
+```
 
 ## Development
 
