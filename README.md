@@ -1,5 +1,6 @@
-# Sosotown
+# sosotown
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sosotown&theme=dracula)
 
 
 <!--
